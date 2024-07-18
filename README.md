@@ -5,4 +5,4 @@
 ### **_Cómo cambiar el background de aplicación Javascript!_**
 
 - **_Aplicaciones creadas en Javascript._**
-- Cómo cambiar el color de fondo de una web al hacer click en un botón.
+- Cómo cambiar el color de fondo de una web al hacer click en este botón.
