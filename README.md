@@ -11,4 +11,4 @@
 - **_Crea una aplicación en Javascript que sea capaz de cambiar el color del background al hacer click en un botón!_**
 - **_En este vídeo te vamos a mostrar todo el proceso de desarrollo de una interesante aplicación en Javascript donde vamos a tener un botón que será el responsable de cambiar el color de fondo de nuestra aplicación cada vez que se haga click en ese botón!_**
 - **_Y también configuraremos nuestra aplicación para que cambie el background color del propio botón, así como el color del texto de ese botón!_**
-- Proyectos y Aplicaciones creadas en Javascript.
+- _Proyectos y Aplicaciones creadas en Javascript._
