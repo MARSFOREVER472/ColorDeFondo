@@ -15,3 +15,4 @@
 - **_Crea una aplicación que cambia de color al hacer click en un botón!_**
 - **_Cómo crear colores aleatorios para cambiar el color de fondo de una aplicación desarrollada en Javascript!_**
 - **_Si alguna vez quisiste crear una aplicación que sea capaz de modificar el color del background al dar click en un botón, entonces en este vídeo verás 3 formas distintas de hacerlo._**
+- La verdad es que es un proyecto de JS muy interesante de realizar y nos sirve para practicar nuestros conocimientos de Javascript.
