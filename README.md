@@ -13,3 +13,4 @@
 - **_Y también configuraremos nuestra aplicación para que cambie el background color del propio botón, así como el color del texto de ese botón!_**
 - **_Proyectos y Aplicaciones creadas en Javascript._**
 - **_Crea una aplicación que cambia de color al hacer click en un botón!_**
+- **_Cómo crear colores aleatorios para cambiar el color de fondo de una aplicación desarrollada en Javascript!_**
