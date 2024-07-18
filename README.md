@@ -7,3 +7,4 @@
 - **_Aplicaciones creadas en Javascript._**
 - **_Cómo cambiar el color de fondo de un archivo HTML al hacer click en este botón._**
 - **_Javascript Práctico._**
+- Cómo cambiar el 'background color' de una aplicación de Javascript!
