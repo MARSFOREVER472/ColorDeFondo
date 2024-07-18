@@ -4,4 +4,4 @@
 
 ### **_Cómo cambiar el background de aplicación Javascript!_**
 
-- Aplicaciones creadas en Javascript:
+- Aplicaciones creadas en Javascript.
